@@ -1,0 +1,6 @@
+D:\heartgold\tools\swav2swar\Swav2Swar\obj\Debug\Swav2Swar.csprojAssemblyReference.cache
+D:\heartgold\tools\swav2swar\Swav2Swar\obj\Debug\Swav2Swar.csproj.CoreCompileInputs.cache
+D:\heartgold\tools\swav2swar\Swav2Swar\bin\Debug\Swav2Swar.exe
+D:\heartgold\tools\swav2swar\Swav2Swar\bin\Debug\Swav2Swar.pdb
+D:\heartgold\tools\swav2swar\Swav2Swar\obj\Debug\Swav2Swar.exe
+D:\heartgold\tools\swav2swar\Swav2Swar\obj\Debug\Swav2Swar.pdb
